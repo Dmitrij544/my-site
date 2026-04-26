@@ -895,6 +895,7 @@ body {
   font-weight: 400;
   background-color: white;
   text-align: center;
+  padding-bottom: 1px;
   cursor: pointer;
 }
 .landing__btn:hover {
@@ -912,7 +913,7 @@ body {
   font-weight: 400;
   background-color: white;
   text-align: center;
-  padding-top: 10px;
+  padding-top: 8px;
   cursor: pointer;
 }
 .landing__btn-1:hover {
